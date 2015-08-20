@@ -1,0 +1,57 @@
+body{
+
+}
+.nav{
+	background-color: yellow;
+	height:100px;
+}
+.logo{
+	background-color: white;
+	height: 90px;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.buttom{
+	background-color: white;
+	height: 50px;
+	margin-top: 40px;
+	margin-left: 750px;
+}
+.explore{
+	background-color: green;
+	height: 800px;
+}
+.gallery{
+	height: 300px;
+	margin-top: 40px;
+}
+.borders{
+	border: 1px solid #000;
+}
+.journal{
+	background-color: blue;
+	height: 800px;
+	padding-top: 40px;
+}
+
+.plan{
+	background-color: #cdcdcd;
+	height: 500px;
+	padding-top: 50px;
+}
+.about{
+	background-color: red;
+	height:700px;
+}
+.note{
+height:400px;
+background-color: white;
+}
+.photo{
+	height: 400px;
+	background-color: black;
+}
+.footer{
+	background-color: black;
+	height:100px;
+}

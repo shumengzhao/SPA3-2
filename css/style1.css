@@ -1,0 +1,63 @@
+body{
+	
+}
+.logo{
+	height:200px;
+	background-color: #cdcdcd;
+	padding-top: 2px;
+}
+
+.search{
+	height: 200px;
+	background-color: red;
+}
+.navigation{
+	background-color: #000;
+	height: 60px;
+}
+.buttom{
+    background-color: green;
+    height: 30px;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+.left{
+	background-color: yellow;
+	height:600px;
+}
+.right{
+    background-color: green;
+    height: 600px;
+
+}
+.gallery{
+	background-color: #cdcdcd;
+    height: 250px;
+
+}
+.mine{
+	background-color: #000;
+	height: 300px;
+	padding: 50px;
+}
+.photo{
+	background-color: white;
+	height: 200px;
+}
+.note{
+	background-color: green;
+	height: 200px;
+}
+.journal{
+	background-color: #cdcdcd;
+	height:250px;
+}
+.chat{
+	background-color: #000;
+	height: 300px;
+	
+}
+.footer{
+	background-color: red;
+	height:100px;
+}
